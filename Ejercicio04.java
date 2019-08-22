@@ -22,11 +22,12 @@ public class Ejercicio04 {
                 valorMax = valor;
                 posicion = i;
 
-            } else {
+            }else {
 
             }
             System.out.println("El valor maximo es " + valorMax);
             System.out.println("Su posicion es " + posicion);
+            
         }
     }
 }
