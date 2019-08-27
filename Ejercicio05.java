@@ -47,6 +47,5 @@ public class Ejercicio05 {
                 + b + " , " + t2);
         System.out.println("Cantidad de ventas y el total de ventas menores o iguales a 500 es: " + c + " , " + t3);
         System.out.println("El total de ventas es: " + tt);
-
-    }
+       }
 }
